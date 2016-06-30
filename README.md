@@ -13,13 +13,13 @@ These cover the general topic of machine learning and are beginner friendly.
 
 ## Books
 
-- [http://statweb.stanford.edu/~tibs/ElemStatLearn/](Elements of Statistical Learning)
-- [https://www.cs.ubc.ca/~murphyk/MLbook/](Machine Learning: a Probabilistic Perspective)
-- [https://www.springer.com/de/book/9780387310732](Pattern Recognition and Machine Learning)
+- [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+- [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/)
+- [Pattern Recognition and Machine Learning](https://www.springer.com/de/book/9780387310732)
 
 # Topics of the meetups
-- [NeuralNetworks.md]
-- [GaussianProcesses.md]
+- [Neural Networks](NeuralNetworks.md)
+- [Gaussian Processes](GaussianProcesses.md)
 
 ## Some related meetups
 
