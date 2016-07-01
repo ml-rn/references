@@ -17,6 +17,14 @@ These cover the general topic of machine learning and are beginner friendly.
 - [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/)
 - [Pattern Recognition and Machine Learning](https://www.springer.com/de/book/9780387310732)
 
+## Courses (MOOC)
+This is a short list of current Online courses with machine Learning and Data Science bias.
+You can use the Audit mode to participate for free at an edX Course, unfortunately the Coursera Courses can't be audited for free. 
+
+- [edX: Xseries Data Science and Machine Learning with spark](https://www.edx.org/xseries/data-science-engineering-apache-spark)
+- [edX: Principles of machine Learning]( https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x)
+- [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
+
 # Topics of the meetups
 - [Neural Networks](NeuralNetworks.md)
 - [Gaussian Processes](GaussianProcesses.md)
