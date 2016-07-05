@@ -15,6 +15,13 @@
 ## Books
 - [Deep Learning Book - Bengio](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 
+## NeuroEvolution
+
+- [AI Junkie](http://ai-junkie.com/) (tutorials, guides and workshops for evolutionary AIs)
+- [NEAT](https://www.cs.ucf.edu/~kstanley/neat.html)
+- [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/)
+- [ES-HyperNEAT](http://eplex.cs.ucf.edu/ESHyperNEAT/)
+
 ## RNNs
 
 ### LSTMvis
