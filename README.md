@@ -32,6 +32,13 @@ You can use the Audit mode to participate for free at an edX Course, unfortunate
 - [Neural Networks](NeuralNetworks.md)
 - [Gaussian Processes](GaussianProcesses.md)
 
+## User Pages
+
+- [AI Junkie](http://ai-junkie.com/) (tutorials, guides and workshops for evolutionary AIs)
+- [NEAT](https://www.cs.ucf.edu/~kstanley/neat.html)
+- [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/)
+- [ES-HyperNEAT](http://eplex.cs.ucf.edu/ESHyperNEAT/)
+
 ## Some related meetups
 
 - http://nuit-blanche.blogspot.de/
