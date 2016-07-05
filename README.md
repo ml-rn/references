@@ -16,6 +16,9 @@ These cover the general topic of machine learning and are beginner friendly.
 - [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/)
 - [Pattern Recognition and Machine Learning](https://www.springer.com/de/book/9780387310732)
+- [Information Theory, Inference and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/)
+- [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+- [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
 
 ## Courses (MOOC)
 This is a short list of current Online courses with machine Learning and Data Science bias.
