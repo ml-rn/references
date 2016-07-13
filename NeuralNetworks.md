@@ -11,6 +11,8 @@
 - [Neural Network Lecture - Geoffrey Hinton](https://www.coursera.org/course/neuralnets)
 - [Deep Learning Lecture - Nando de Freitas](https://www.youtube.com/watch?v=PlhFWT7vAEw)
 - [Stat212b: Topics Course on Deep Learning - Joan Bruna](https://joanbruna.github.io/stat212b/)
+- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
+
 
 ## Books
 - [Deep Learning Book - Bengio](http://www.iro.umontreal.ca/~bengioy/dlbook/)
