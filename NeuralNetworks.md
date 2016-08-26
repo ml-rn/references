@@ -24,6 +24,9 @@
 - [HyperNEAT](http://eplex.cs.ucf.edu/hyperNEATpage/)
 - [ES-HyperNEAT](http://eplex.cs.ucf.edu/ESHyperNEAT/)
 
+## Variational Autoencoders
+ - The repository to the Meetup presentation of Thomas is [here](https://bitbucket.org/tomsal/pub).
+
 ## RNNs
 
 ### LSTMvis
