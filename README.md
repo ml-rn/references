@@ -10,6 +10,11 @@ These cover the general topic of machine learning and are beginner friendly.
 
 - https://www.coursera.org/learn/machine-learning
 - https://www.youtube.com/watch?v=UzxYlbK2c7E
+- [Collection of ML Lectures collected by Dustin Tran](https://github.com/dustinvtran/ml-videos)
+
+## Reading Lists
+
+- [Annotated Bibliography of the Center for Human-Compatible AI](http://humancompatible.ai/bibliography)
 
 ## Books
 
